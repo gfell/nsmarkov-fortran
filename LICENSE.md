@@ -13,7 +13,7 @@ furnished to do so, subject to the following conditions:
 you cite the package. A suggested citation is
     
     "nmarkov-fortran: Markov-chain approximations for non-stationary AR(1) 
-     processes (Fortran version)" https://github.com/floswald/MOpt.jl 
+     processes (Fortran version)" https://github.com/gfell/nsmarkov-fortran
      based on the paper "Markov-Chain Approximations for Life-Cycle Models"  
      by Giulio Fella, Giovanni Gallipoli and Jutong Pan, Review of Economic 
      Dynamics 34, 2019 (https://doi.org/10.1016/j.red.2019.03.013).  
